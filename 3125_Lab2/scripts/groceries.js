@@ -62,7 +62,7 @@ var products = [
 		vegetarian: false,
 		glutenFree: true,
 		price: 10.00
-	},
+	}
 ];
 	
 
