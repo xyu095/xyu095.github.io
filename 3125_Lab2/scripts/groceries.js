@@ -20,7 +20,49 @@ var products = [
 		vegetarian: false,
 		glutenFree: true,
 		price: 10.00
-	}
+	},
+	{
+		name: "chicken",
+		vegetarian: false,
+		glutenFree: true,
+		price: 10.00
+	},
+	{
+		name: "beef",
+		vegetarian: false,
+		glutenFree: true,
+		price: 10.00
+	},
+	{
+		name: "pork",
+		vegetarian: false,
+		glutenFree: true,
+		price: 10.00
+	},
+	{
+		name: "fish",
+		vegetarian: false,
+		glutenFree: true,
+		price: 10.00
+	},
+	{
+		name: "shimp",
+		vegetarian: false,
+		glutenFree: true,
+		price: 10.00
+	},
+	{
+		name: "clam",
+		vegetarian: false,
+		glutenFree: true,
+		price: 10.00
+	},
+	{
+		name: "lamp",
+		vegetarian: false,
+		glutenFree: true,
+		price: 10.00
+	},
 ];
 	
 
